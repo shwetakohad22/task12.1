@@ -1,0 +1,24 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f4f4f4;
+}
+
+.container {
+    margin-top: 50px;
+}
+
+.card {
+    margin-bottom: 20px;
+    cursor: pointer;
+}
+
+.modal-content {
+    max-width: 800px;
+    margin: auto;
+}
+
+.modal-body {
+    max-height: 500px;
+    overflow-y: auto;
+}
+
